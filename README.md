@@ -8,7 +8,7 @@ In this project, I'll address two pivotal steps in the Vulnerability Management 
 
 - <b>VMWare WorkStation 17 Player</b>
 - <b>Windows 10 ISO</b>
-- <b>Nexssus Essentials </b>
+- <b>Nessus Essentials </b>
 
 <h2>Project walk-through:</h2>
 
